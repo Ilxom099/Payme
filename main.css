@@ -1,0 +1,16 @@
+.page-1{
+    height: 80vh !important;
+}
+
+.banner-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
